@@ -1,0 +1,14 @@
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\bin\Debug\net8.0\sorted set uygulamasi.exe
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\bin\Debug\net8.0\sorted set uygulamasi.deps.json
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\bin\Debug\net8.0\sorted set uygulamasi.runtimeconfig.json
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\bin\Debug\net8.0\sorted set uygulamasi.dll
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\bin\Debug\net8.0\sorted set uygulamasi.pdb
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.dll
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\refint\sorted set uygulamasi.dll
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.pdb
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\sorted set uygulamasi.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\sorted set uygulamasi\sorted set uygulamasi\obj\Debug\net8.0\ref\sorted set uygulamasi.dll

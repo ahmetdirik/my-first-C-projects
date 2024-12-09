@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ahmet\\source\\repos\\consoleapp8\\consoleapp8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ahmet\\source\\repos\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ahmet\\source\\repos\\consoleapp8\\consoleapp8\\ogretim elemani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2829D74F-3CC4-4ACA-AF2E-C601E776FDFE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\ogretim elemani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Class1.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp8\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:55:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ogretim Elemani.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Ogretim Elemani.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Ogretim Elemani.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Ogretim Elemani.cs",
+              "RelativeToolTip": "ConsoleApp8\\Ogretim Elemani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:54:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:26:22.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

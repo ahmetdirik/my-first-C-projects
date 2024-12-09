@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sorted Dictionary/1.0.0": {
+        "runtime": {
+          "Sorted Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorted Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\bin\Debug\net8.0\linkedlisst.exe
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\bin\Debug\net8.0\linkedlisst.deps.json
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\bin\Debug\net8.0\linkedlisst.runtimeconfig.json
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\bin\Debug\net8.0\linkedlisst.dll
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\bin\Debug\net8.0\linkedlisst.pdb
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.dll
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\refint\linkedlisst.dll
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.pdb
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\linkedlisst.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\linkedlisst\linkedlisst\obj\Debug\net8.0\ref\linkedlisst.dll

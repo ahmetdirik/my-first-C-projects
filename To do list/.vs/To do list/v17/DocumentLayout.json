@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\To do list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|c:\\users\\ahmet\\source\\repos\\to do list\\to do list\\yapilacaklarlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|solutionrelative:to do list\\yapilacaklarlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|c:\\users\\ahmet\\source\\repos\\to do list\\to do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|solutionrelative:to do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|c:\\users\\ahmet\\source\\repos\\to do list\\to do list\\to do list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|solutionrelative:to do list\\to do list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|c:\\users\\ahmet\\source\\repos\\to do list\\to do list\\gorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1913D8EB-B48D-45EF-941E-612E1EBB80AD}|To do list\\To do list.csproj|solutionrelative:to do list\\gorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "To do list.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\To do list.csproj",
+              "RelativeDocumentMoniker": "To do list\\To do list.csproj",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\To do list.csproj",
+              "RelativeToolTip": "To do list\\To do list.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T13:28:50.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gorev.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\Gorev.cs",
+              "RelativeDocumentMoniker": "To do list\\Gorev.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\Gorev.cs",
+              "RelativeToolTip": "To do list\\Gorev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:17:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YapilacaklarListesi.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\YapilacaklarListesi.cs",
+              "RelativeDocumentMoniker": "To do list\\YapilacaklarListesi.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\YapilacaklarListesi.cs",
+              "RelativeToolTip": "To do list\\YapilacaklarListesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:16:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\Program.cs",
+              "RelativeDocumentMoniker": "To do list\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\To do list\\To do list\\Program.cs",
+              "RelativeToolTip": "To do list\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:50:47.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
